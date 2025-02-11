@@ -1,0 +1,7 @@
+{
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "cSpell.words": [
+        "imread",
+        "imshow"
+    ]
+}
